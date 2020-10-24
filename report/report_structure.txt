@@ -1,0 +1,15 @@
+Struttura report:
+
+- Introduzione (task scelto, ovvero text classification)
+- Dati (descrizione dataset, provenienza, dominio)
+- Pipeline
+	* Pulizia dataset (eliminazione duplicati, Na values removal, accorpamento classi a priori, language detection)
+	* Text-processing (tokenization, normalization+to_lower, stop words removal,
+			 POS tagging per lemmatization, lemmatization & stemming, badwords removal)
+	* Text-representation (BOW Tf-idf, BOW frequency count, W2V Tf-idf, W2V mean, D2V dbow)
+	* Individuazione miglior processing (lemm, lemm+bad, stemm, stemm+bad) per ogni rappresentazione
+	* Valutazione sui due modelli realizzati (NN vs RF)
+	* Best model e addestramento
+	* Demo (?)
+- Risultati
+- Conclusioni e future works
