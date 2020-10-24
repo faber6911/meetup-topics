@@ -3,7 +3,7 @@
 </p>
 </div>
 
-<div align = "center"><img src = "https://gitlab.com/faber6911/tm-project/raw/master/slides/icons/project_logo.png" width = "50%">
+<p align = "center"><img src = "https://github.com/faber6911/meetup-topics/raw/master/slides/icons/project_logo.png" width = "50%">
 
 <h6 align = "center">a Text Mining and Search Project</h6>
 
@@ -15,7 +15,7 @@
   <a href="#report">&nbsp; Report &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
 </p>
-</div>
+</p>
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
@@ -34,17 +34,17 @@ Our goal was to find the best combination of preprocessing and text representati
 <li>D. Xue and F. Li, (2015). "Research of Text Categorization Model based on Random Forests", IEEE International Conference on Computational Intelligence \& Communication Technology, 173-176.</li>
 </ul>
 
-<a name="codde"></a>
+<a name="code"></a>
 ## &#9741; &nbsp; Code
-All the produced code is contained into the <a href="https://gitlab.com/faber6911/tm-project/blob/master/src/">src</a> folder, and described in the <a href="https://gitlab.com/faber6911/tm-project/-/blob/master/scr/README.md">src README</a>.
+All the produced code is contained into the <a href="https://github.com/faber6911/meetup-topics/blob/master/src/">src</a> folder, and described in the <a href="https://github.com/faber6911/meetup-topics/-/blob/master/scr/README.md">src README</a>.
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
-Slides available <a href="https://gitlab.com/faber6911/tm-project/blob/master/slides/">here</a> in pdf and pptx formats.
+Slides available <a href="https://github.com/faber6911/meetup-topics/blob/master/slides/">here</a> in pdf and pptx formats.
 
 <a name="report"></a>
 ## &#9741; &nbsp; Report
-Full report <a href="https://gitlab.com/faber6911/tm-project/blob/master/report/">here</a>.
+Full report <a href="https://github.com/faber6911/meetup-topics/blob/master/report/report.pdf">here</a>.
 
 
 <a name="aboutus"></a>
@@ -57,11 +57,10 @@ Full report <a href="https://gitlab.com/faber6911/tm-project/blob/master/report/
 
 <br>
 
-<div align = "center">
 <p align = "center">
   <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/DBertazioli/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-</div>
+</p>
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
 
@@ -69,11 +68,10 @@ Full report <a href="https://gitlab.com/faber6911/tm-project/blob/master/report/
 - *Studi precedenti*: Laurea triennale in Economia e Statistica per le organizzazioni presso l'Università degli Studi di Torino.
 <br>
 
-<div align = "center">
 <p align = "center">
   <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/faber6911/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-</div>
+</p>
 
 &#8860; &nbsp; **Massimiliano Perletti**
 
@@ -81,8 +79,7 @@ Full report <a href="https://gitlab.com/faber6911/tm-project/blob/master/report/
 - *Studi precedenti*: Laurea triennale in Ingegneria dei materiali e delle nano-tecnologie presso il Politecnico di Milano.
 <br>
 
-<div align = "center">
 <p align = "center">
   <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://raw.githubusercontent.com/DBertazioli/Interact/master/img/iconfinder_Popular_Social_Media-22_2329259.png" width = "3%"></a>
   <a href = "https://github.com/maxi93/"><img src="https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/images/GitHub.png" width = "3%"></a>
-</div>
+</p>
