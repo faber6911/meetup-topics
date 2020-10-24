@@ -40,7 +40,7 @@ All the produced code is contained into the <a href="https://github.com/faber691
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
-Slides available <a href="https://github.com/faber6911/meetup-topics/blob/master/slides/">here</a> in pdf and pptx formats.
+Slides available <a href="https://github.com/faber6911/meetup-topics/blob/master/slides/text_mining_slides.pdf">here</a> in pdf and pptx formats.
 
 <a name="report"></a>
 ## &#9741; &nbsp; Report
