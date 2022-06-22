@@ -1,6 +1,6 @@
 keras==2.2.5
 pandas==0.25.3
-numpy==1.17.5
+numpy==1.22.0
 matplotlib==3.1.3
 searbon==0.10.0
 pickle==4.0
